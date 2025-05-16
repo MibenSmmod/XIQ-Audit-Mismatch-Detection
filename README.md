@@ -79,7 +79,7 @@ Example CSV Output:
 | -------- |:----:| ------:| ----------:| --------:| -----:|
 | AP1 | AP | Online | Mismatch | Bldg | Floor |
 | AP2 | AP | Online | Mismatch | Bldg | Floor |
-| AP4 | AP | Offline | Unknown | Bldg | Floor |
+| AP4 | AP | Offline | Mismatch | Bldg | Floor |
 
 | SOFTWARE | IP | POLICY | MODEL | LAST SEEN |
 | --------:| --:| ------:| -----:| ---------:|
